@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://d01nsj21ogu6t"]
+
+[ext_resource type="AudioStream" uid="uid://nw4lo2ubyo3d" path="res://assets/music/Chigga-Chigga-Dream.mp3" id="1_3lt5a"]
+
+[node name="Music" type="AudioStreamPlayer2D" unique_id=1809890010]
+stream = ExtResource("1_3lt5a")
+autoplay = true
